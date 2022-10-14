@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring technology. My current interests are... 
   - Python Scripting
   -   Macine Learning 
-  -   self help scripting
+  -   Self Help scripting
   - Solidity / Javascript 
   -   Gitcoin centered work
   -   React 
