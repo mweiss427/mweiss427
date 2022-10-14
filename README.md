@@ -3,11 +3,9 @@
   - Python Scripting
   -   Macine Learning 
   -   Self Help scripting
-  - Solidity / Javascript 
-  -   Gitcoin centered work
+  -   Solidity
   -   React 
   - Terraform / Hashicorp
-  -   Current career.
 - 🌱 I’m currently learning
 -   English 
 -   Javascript - React
