@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mweiss427 - Matt Weiss 
+- 👋 Hi, I’m Matt Weiss 
 - 👀 I’m interested in exploring technology. My current interests are... 
   - Python Scripting
   -   Macine Learning 
