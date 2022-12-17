@@ -17,7 +17,7 @@
 - 💞️ I’m looking to collaborate on.
 -   ________
 - 📫 How to reach me
--   [@Matt_E_Weiss](https://twitter.com/Matt_E_Weiss)
+mweiss427@gmail.com
 
 
 <!---
