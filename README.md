@@ -6,15 +6,15 @@
   - React 
   - Terraform / Hashicorp
 - 🌱 I’m currently learning
--   Javascript - React
--   Pthon 
--   AWS
--   React 
--   English 
--   Russian 
--   Guitar
+  - Javascript - React
+  - Pthon 
+  - AWS
+  - React 
+  - English 
+  - Russian 
+   - Guitar
 - 💞️ I’m looking to collaborate on.
--   ________
+____________________
 - 📫 How to reach me
 mweiss427@gmail.com
 
