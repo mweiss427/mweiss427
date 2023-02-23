@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matt Weiss 
 - 👀 I’m interested in exploring technology. My current interests are... 
-  - Python Scripting
+  - Writing
   - Macine Learning 
   - Solidity
   - React 
@@ -9,10 +9,9 @@
   - Javascript - React
   - Pthon 
   - AWS
-  - React 
   - English 
   - Russian 
-   - Guitar
+  - Guitar
 - 💞️ I’m looking to collaborate on.
 ____________________
 - 📫 How to reach me
