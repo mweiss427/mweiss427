@@ -7,13 +7,13 @@
   - Terraform / Hashicorp
 - 🌱 I’m currently Studying
   - Javascript - React
-  - Pthon 
   - AWS
   - English 
   - Russian 
   - Guitar
   - Philosophy
 - 💞️ I’m looking to collaborate on.
+  - React websites and Apps  
 ____________________
 - 📫 How to reach me
 mweiss427@gmail.com
