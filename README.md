@@ -1,15 +1,8 @@
 - 👋 Hi, I’m Matt Weiss 
 - 👀 I’m interested in exploring technology. My current interests are... 
-  - Writing
-  - React
-  - Macine Learning 
-  - Solidity 
-  - Terraform / Hashicorp
+  - Scale
 - 🌱 I’m currently Studying
-  - Javascript - React
-  - AWS
   - English 
-  - Russian 
   - Guitar
   - Philosophy
 - 💞️ I’m looking to collaborate on.
