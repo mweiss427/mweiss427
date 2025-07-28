@@ -2,14 +2,11 @@
 - 👀 I’m interested in exploring technology. My current interests are... 
   - Scale
 - 🌱 I’m currently Studying
-  - English 
-  - Guitar
-  - Philosophy
-- 💞️ I’m looking to collaborate on.
-  - React websites and Apps  
+  - Spanish 
+  - AI-systems
+  - Philosophy  
 ____________________
 - 📫 How to reach me
-mweiss427@gmail.com
 
 
 <!---
